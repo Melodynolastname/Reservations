@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7vQKME5oK0uzpz7v17flNAAAAAACAAAAAAAQZgAAAAEAACAAAAAjWiaD/4MqfXLiO3N0hUETSkAeqN9LknLgcmdpACh1DQAAAAAOgAAAAAIAACAAAADdCJ5ei9mMeSzHlfSksyRHWGLFg4uUngRLkISZCwrP+iAAAAA5dvLHmUq3LoaH/Vg2UrGXAV2it0ZO84bfHWL2oKJPIUAAAABvz4CLfL6F5nIAJ8Yw7pyUSy3basRLFx/+NiCpeQFH22yHuP4CZUF8Gy8bmM//23ksTe5DLjEw1huxozstrVlm</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.elmcsis.com/</_PublishTargetUrl>
+    <History>True|2025-03-21T23:15:21.9913996Z||;True|2025-03-21T18:14:35.7204990-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Reservations.dll">
+      <publishTime>03/21/2025 18:14:30</publishTime>
+    </File>
+    <File Include="bin/Reservations.pdb">
+      <publishTime>03/21/2025 18:14:30</publishTime>
+    </File>
+    <File Include="Reservations/images/chicky twerk.gif">
+      <publishTime>03/21/2025 16:55:05</publishTime>
+    </File>
+    <File Include="Reservations/images/logo.png">
+      <publishTime>03/21/2025 16:54:14</publishTime>
+    </File>
+    <File Include="Reservations/images/required.gif">
+      <publishTime>03/21/2025 16:54:14</publishTime>
+    </File>
+    <File Include="Reservations/Reservation.aspx">
+      <publishTime>03/21/2025 18:15:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/21/2025 18:14:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
